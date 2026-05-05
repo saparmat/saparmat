@@ -3,8 +3,8 @@
 ### Graphic Desinger
 - As a graphic designer, I strive to create designs that are not only visually appealing but also communicate a message effectively.
 
-## ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-## ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+##![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+##![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
 <!--
 **saparmat/saparmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
