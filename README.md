@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Saparmat
 
 ### Graphic Desinger
+As a graphic designer, I strive to create designs that are not only visually appealing but also communicate a message effectively.
 
 <!--
 **saparmat/saparmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
